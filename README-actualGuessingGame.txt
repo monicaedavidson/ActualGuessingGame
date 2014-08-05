@@ -1,4 +1,4 @@
-This code is for the assignment, "Make your own Guessing Game." Collaborators are Monica Davidson. Brook Riggio helped with code format.
+This code is for the assignment, "Make your own Guessing Game." Collaborators are Monica Davidson and also, Brook Riggio helped with code format.
 
 This code is designed for a user to guess my (Monica Davidson's) favorite city ("Seattle").
 
