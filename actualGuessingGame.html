@@ -1,0 +1,24 @@
+<script>
+	var guess ; 
+	var answer = "Seattle" ;
+
+	do {
+		guess = prompt("What is my favorite city? It starts with a letter \"S\" ") ;
+
+		if (guess.toUpperCase() == answer.toUpperCase()) {
+			alert("You guessed correctly!") ;
+		break ;
+
+		} else if (guess.toUpperCase() == "San Diego".toUpperCase()) {
+			alert("No, I like California but that's not my favorite. Hint: It's in Washington State.") ;
+
+		}
+
+		else {
+			alert("Not my favorite city- keep trying! Hint: It's in Washington State.") ;
+
+		} ;
+	} while (guess != "Exit") ;
+
+	alert("Goodbye :) ") ;
+</script>
